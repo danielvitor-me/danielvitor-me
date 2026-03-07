@@ -9,16 +9,16 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e estou retomando minha t
 ### 💻 Stack de Desenvolvimento
 
 **Foco Atual:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=FFF)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%230B3D91.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%230B3D91.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-0B3D91?style=for-the-badge&logo=hibernate&logoColor=FFF)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%230B3D91.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Conhecimentos Complementares:**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FF9100?style=for-the-badge&logo=firebase)
+![Angular](https://img.shields.io/badge/Angular-0B3D91?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%230B3D91.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%230B3D91.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0B3D91?style=for-the-badge&logo=firebase)
 
 ### 🛠 No que estou trabalhando no momento:
 * 🎵 **Repertório Musical:** Projeto desenvolvido em **Java 21** para consolidar fundamentos de Orientação a Objetos, coleções e lógica de negócios.
@@ -30,5 +30,5 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e estou retomando minha t
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielvitor-me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B3D91?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielvitor-me/)
 
